@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/sharugangadhar/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/amruta-07" target="_blank">
+<a href="https://github.com/kgsharathkumar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
  <a href="" target="_blank">
@@ -20,22 +20,7 @@
  <a href="" target="_blank">
 <img src=https://img.shields.io/badge/hackerrank-%2314354C.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 </a>
-
-<!--
-**amruta-07/amruta-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- Here are some ideas to get you started:  
- I am CSE'23. my main interest lies in Web Development and DSA. I am always curious to learn something new.
-
-
-- 🔭 I’m currently working on Web Development Projects.
-- 🌱 I’m currently learning Best Practices for DSA and CP.
-- 👯 I’m looking to collaborate on any web development Project.
-- 🤔 I’m looking for help with Internship.
-- 💬 Ask me about Java.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8).
-- 😄 Pronouns: You can give one.
-- ⚡ Fun fact: I can work without music.
--->  
+ 
 
 **I am having Seven plus years of experience in software application development, Proficient with Core Java, Android, Android SDK, Android Framework, Python, Robot, Django framework, Webservices. Worked on Cloud technologies like Docker.**
 **I really like to explore new Domains. I am good at analysing and problem solving. My Objective is to build a career in an organization which can provide me with the opportunity     to apply my skills for growth and profitability of the organization as well as to grow as an individual.
